@@ -17,6 +17,20 @@ However if you running in 64-bit with 7-zip 32-bit installed, put the following 
 
 Once the extraction is complete, you can choose the language you want. Go to **Tools** -> **Options** and select **Language** Tab.
 
+# Merge7z from WinMerge
+Merge7z was also bundled for WinMerge, you can also download if you haven't installed it.
+
+You need downlaod the WinMerge latest version (or pre-release version) [here](https://github.com/winmerge/winmerge/releases).
+
+After the WinMerge is install succeeded, You also need Download the Merge7Z [here](https://github.com/WinMerge/winmerge/releases/tag/Merge7z2501.0).<br/>
+Then after that, you must follow the program files if you are running 32-bit or 64-bit:
+* If you have 32-bit/64-bit installed: C:\Program Files\WinMerge\Merge7z
+* If you have 32-bit if running on 64-bit installed: C:\Program Files (x86)\WinMerge\Merge7z
+
+Also, If you have the portable version for WinMerge, this also should work fine though.
+
+Now replace the Languages that uses LF Line Ending. After that, it should work fine.
+
 # English Base file (en.ttt)
 The en.ttt file is simple, which this is base language file that uses **English (Default)** language. However for some reason, **en** is default language, which it should be en-US (as 0409 hex or 1033 decimal).
 
