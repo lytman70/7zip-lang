@@ -1,5 +1,5 @@
 ﻿;!@Lang2@!UTF-8!
-; 25.01 : 2025-10-05 Michelpuri (CurePopuri/PopuriO2)
+; 25.01 : 2025-09-09 Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
@@ -13,9 +13,9 @@
 0
 7-Zip
 French
-Gabon
+Gaulois
 401
-OK
+Décider
 Annuler
 
 
@@ -35,7 +35,7 @@ Redémarrer
 P&remier plan
 &Pause
 En pause
-Tu es sur(e) de vraiment annuler le processus ?
+Tu es sur(e) de vraiment annuler ?
 500
 &Fichier
 &Édition
@@ -271,20 +271,20 @@ Ne peut ouvrir les fichiers {0} comme une archive
 Le fichier {0} est ouvert comme une archive
 L'archive est ouverte avec un décalage
 3300
-Extraction en cours
-Compression en cours
-Contrôle en cours
+Extraction
+Compression
+Contrôle
 Ouverture...
-Analyse...
-Suppression...
+Exploration...
+Enlever
 3320
-Ajouter
-Mise à jour
+Ajoute
+Modifie
 Analyse
-Réplication
-Reconditionnement
-Évitement
-Effacement
+Réplique
+Remballage
+Passe
+Efface
 Création d'un en-tête
 3400
 Extraire
@@ -439,10 +439,10 @@ Le système ne peut mettre à la Corbeille un fichier avec un trop long chemin d
 6300
 Créer un Dossier
 Créer un Fichier
-Entrez le Nom du dossier :
-Entrez le Nom du fichier :
-Nouvelle Dossier
-Nouvelle Fichier
+Nom du dossier :
+Nom du fichier :
+Nouveau Dossier
+Nouveau Fichier
 Erreur durant la création du dossier
 Erreur durant la création du fichier
 6400
