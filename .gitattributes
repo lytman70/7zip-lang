@@ -6,3 +6,6 @@
 * text auto eol=crlf
 *.ttt eol=crlf
 *.txt eol=crlf
+
+## Markdown Files
+*.md auto eol=crlf
