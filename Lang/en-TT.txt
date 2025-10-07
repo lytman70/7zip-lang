@@ -1,5 +1,5 @@
 ﻿;!@Lang2@!UTF-8!
-; 25.01 : 2025-09-06 : Michelpuri (CurePopuri/PopuriO2)
+; 25.01 : 2025-10-07 : Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
@@ -13,9 +13,9 @@
 0
 7-Zip
 English
-Trinidad
+Trinidad and Tobago
 401
-Decide
+Accept
 Cancel
 
 
