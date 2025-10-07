@@ -20,7 +20,7 @@ Once the extraction is complete, you can choose the language you want. Go to **T
 # Merge7z from WinMerge
 Merge7z was also bundled for WinMerge, you can also download if you haven't installed it.
 
-You need downlaod the WinMerge latest version (or pre-release version) [here](https://github.com/winmerge/winmerge/releases).
+You need download the WinMerge latest version (or pre-release version) [here](https://github.com/winmerge/winmerge/releases).
 
 After the WinMerge is install succeeded, You also need Download the Merge7Z [here](https://github.com/WinMerge/winmerge/releases/tag/Merge7z2501.0).<br/>
 Then after that, you must follow the program files if you are running 32-bit or 64-bit:
