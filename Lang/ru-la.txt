@@ -1,6 +1,6 @@
 ﻿;!@Lang2@!UTF-8!
-; 25.01 : 2025-08-25 Michelpuri (CurePopuri/PopuriO2)
-;
+; 25.01 : 2025-08-25 : Michelpuri (CurePopuri/PopuriO2)
+; 25.01 : 2025-10-08 : Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
@@ -12,8 +12,8 @@
 ;
 0
 7-Zip
-Russian
-Latin
+Russian (Latin)
+Russkiy, Latin
 401
 OK
 Otmena
@@ -33,7 +33,7 @@ Stop
 Perezapusk
 &Фоном
 &На передний план
-&Пауза
+&Pauze
 Na pauze
 Vy deystvitel'no khotite prervat' operatsiyu?
 500
