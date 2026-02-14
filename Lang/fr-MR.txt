@@ -1,5 +1,5 @@
 ﻿;!@Lang2@!UTF-8!
-; 25.01 : 2025-10-05 : Michelpuri (CurePopuri/PopuriO2)
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
@@ -442,7 +442,8 @@ Créer un Fichier
 Entrez le Nom du dossier :
 Entrez le Nom du fichier :
 Nouvelle Dossier
-Nouveau FichierNouvelle FichierErreur durant la création du dossier
+Nouveau Fichier
+Erreur durant la création du dossier
 Erreur durant la création du fichier
 6400
 Commentaire

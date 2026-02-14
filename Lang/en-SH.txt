@@ -1,5 +1,5 @@
 ﻿;!@Lang2@!UTF-8!
-; 24.02 : 2024-03-23 : Michelpuri (CurePopuri/PopuriO2)
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
