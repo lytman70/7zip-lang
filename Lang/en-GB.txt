@@ -1,5 +1,5 @@
 ﻿;!@Lang2@!UTF-8!
-; 25.01 : 2025-08-26 : Michelpuri (CurePopuri/PopuriO2)
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2)
 ;
 ;
 ;
@@ -521,7 +521,7 @@ Change allowed limit for next operations
 Action
 7810
 This operation was blocked by 7-Zip and cannot continue.
-This operation requires big amount of memory of RAM.
+The operation requires big amount of memory of RAM.
 Required memory usage size
 Allowed memory usage limit
 Memory usage limit set by 7-Zip

@@ -4,7 +4,7 @@
 ;  9.07 :
 ; 15.05 : 2015-06-15 : Stjepan Treger
 ; 25.01 : 2025-09-03 : Michelpuri (CurePopuri/PopuriO2)
-;
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
 ;
 ;
 ;
