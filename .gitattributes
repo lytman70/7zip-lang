@@ -9,3 +9,6 @@
 
 ## Markdown Files
 *.md auto eol=crlf
+
+## Other Files
+*.csv auto eol=crlf
