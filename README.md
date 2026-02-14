@@ -41,7 +41,7 @@ In most versions that came found on 7-Zip 24.05, the **en.ttt** file uses old ve
 **; 24.04 : 2024-04-05 : Igor Pavlov**
 
 In order to update the latest version (such as 25.01), this is the example as follows:<br/>
-**; 25.01 : 2025-08-03 : Igor Pavlov**
+**; 26.00 : 2026-02-12 : Igor Pavlov**
 
 Versions below 24.04 (that uses 7-Zip 24.05 through 25.01) contains this is bug version which it came old version. We always updated new version if Igor releases 7-Zip future versions.
 
