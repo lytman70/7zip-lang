@@ -4,7 +4,7 @@
 ; 15.00 : 2016-02-01 : enfeitizador
 ; 22.00 : 2023-05-13 : enfeitizador
 ; 25.01 : 2025-08-29 : Michelpuri (CurePopuri/PopuriO2)
-;
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
 ;
 ;
 ;

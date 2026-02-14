@@ -6,7 +6,7 @@
 ; 15.05 : 2015-08-07 : Lauri Kenttä
 ; 19.00 : 2020-12-28 : Sampo Hippeläinen
 ; 25.01 : 2025-08-29 : Michelpuri (CurePopuri/PopuriO2)
-;
+; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
 ;
 ;
 ;
