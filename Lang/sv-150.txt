@@ -13,9 +13,9 @@
 0
 7-Zip
 Swedish
-Åland Islands
+Europe
 401
-Acceptera
+OK
 Avbryt
 
 
@@ -35,7 +35,7 @@ Starta om
 &Förgrunden
 &Pausa
 Pausad
-Vill du verkligen avbryta processen?
+Vill du verkligen avbryta?
 500
 &Arkiv
 &Redigera
@@ -248,7 +248,7 @@ Enkelklick för att öppna objekt
 Använd &stora minnessidor
 2900
 Om 7-Zip
-7-Zip är fri och GRATIS programvara. Men du kan ändå stötta utvecklingen av 7-Zip genom att ge en donation. Som donator kan du få hjälp och support om du behöver.
+7-Zip är en GRATIS programvara. Du kan dock stödja utvecklingen av 7-Zip genom att donera. Som donator kan du få teknisk support.
 3000
 Systemet kan inte allokera den begärda minnesmängden
 Inga fel påträffades
@@ -344,9 +344,9 @@ Funktionen stöds inte
 3800
 Ange lösenord
 Ange lösenord:
-Upprepa lösenord:
+Bekräfta lösenord:
 &Visa lösenord
-Lösenorden stämmer inte överens
+De två lösenorden stämmer inte överens!
 Använd endast engelska bokstäver, siffror och specialtecken (!, #, $, ...) till lösenord
 Lösenordet är för långt
 Lösenord
@@ -431,15 +431,15 @@ Varning - Bekräfta borttagning av fil
 Varning - Bekräfta borttagning av mapp
 Varning - Bekräfta borttagning av flera filer
 Är du säker på att du vill ta bort '{0}'?\nDen kommer att vara borta för alltid och den här åtgärden kan inte ångras!
-Är du säker på att du vill ta bort mappen '{0}' och allt dess innehåll?\nOm du tar bort en mapp går den förlorad permanent.\nDet här kan du inte ångra!
-Är du säker på att du vill ta bort de här {0} objekten?\nOm du tar bort en fil går den förlorad permanent.\nDenna åtgärd kan inte ångras!
+Är du säker på att du vill ta bort mappen '{0}' och allt dess innehåll?\nOm du tar bort en mapp går den förlorad permanent.\nDen här åtgärden kan inte ångras!
+Är du säker på att du vill ta bort de här {0} objekten?\nOm du raderar en fil är den permanent förlorad.\nDenna åtgärd kan inte ångras!
 Tar bort...
 Ett fel uppstod under borttagning av fil eller mapp
 Systemet kan inte flytta en fil med så lång sökväg till papperskorgen
 6300
 Skapa mapp
 Skapa fil
-Ange mappnamnet
+Ange mappnamnet:
 Ange filnamnet:
 Ny mapp
 Ny fil

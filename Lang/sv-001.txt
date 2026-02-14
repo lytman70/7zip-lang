@@ -13,9 +13,9 @@
 0
 7-Zip
 Swedish
-Åland Islands
+World
 401
-Acceptera
+OK
 Avbryt
 
 
@@ -344,9 +344,9 @@ Funktionen stöds inte
 3800
 Ange lösenord
 Ange lösenord:
-Upprepa lösenord:
+Bekräfta lösenord:
 &Visa lösenord
-Lösenorden stämmer inte överens
+De två angivna lösenorden matchar inte!
 Använd endast engelska bokstäver, siffror och specialtecken (!, #, $, ...) till lösenord
 Lösenordet är för långt
 Lösenord
@@ -439,7 +439,7 @@ Systemet kan inte flytta en fil med så lång sökväg till papperskorgen
 6300
 Skapa mapp
 Skapa fil
-Ange mappnamnet
+Ange mappnamnet:
 Ange filnamnet:
 Ny mapp
 Ny fil

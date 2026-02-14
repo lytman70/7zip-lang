@@ -13,7 +13,7 @@
 0
 7-Zip
 English
-Zimbabwe
+Indonesia
 401
 Confirm
 Cancel
@@ -35,7 +35,7 @@ Restart
 &Foreground
 &Pause
 Paused
-Are you sure you want to Cancel the process?
+Do you want to really Cancel?
 500
 &File
 &Edit
@@ -61,7 +61,7 @@ Calculate Checksum
 Diff
 Create Folder
 Create File
-E&xit
+e&Xit
 Link
 &Alternate Streams
 600
@@ -203,7 +203,7 @@ Metadata Changed
 2100
 Options
 Language
-Choose a Language:
+Select a Language:
 Editor
 &Editor:
 &Diff:
@@ -234,28 +234,28 @@ Folders
 &System Temp Folder
 &Current
 &Specified:
-Use for removable drives only
-Please specify the location for temporary archive files.
+Use for Removable Drives Only
+Please specify the location for the temporary archive files.
 2500
 Settings
 Show ".." Item
-Show real file icons
+Show Real File Icons
 Show System Menu
-&Full row select
-Show &grid lines
-Single-click to open an item
-&Alternative selection mode
-Enable &large memory pages
+&Full Row Select
+Show &Grid Lines
+Single-click to open an item (point to select)
+&Alternative Selection Mode
+Enable &Large Memory Pages
 2900
 About 7-Zip
 7-Zip is FREE software. However, you can support development of 7-Zip by donating. As a donator user, you will be able to get technical support.
 3000
 The system cannot allocate the required amount of memory
-We have confirmed testing the archive and there are no error problems!
+We've just confirmed testing the archive and there are no error problems!
 {0} object(s) selected
 Cannot create folder '{0}'
 The update operations IS NOT SUPPORTED for this archive!
-Cannot open file '{0}' as archive
+The file you are trying to open '{0}' which is Invalid or unsupported archive file format!
 Cannot open encrypted archive '{0}'. Wrong password?
 Archive type is not supported!
 File {0} is already exist
@@ -318,8 +318,8 @@ with this one?
 A&utomatic Rename
 3700
 Unsupported compression method for '{0}'.
-Data error in '{0}'. The file is broken.
-CRC failed in '{0}'. The file is broken.
+Data error in '{0}'. The File is broken.
+CRC failed in '{0}'. The File is broken.
 Data error in encrypted file '{0}'. Wrong password?
 CRC failed in encrypted file '{0}'. Wrong password?
 3710
@@ -328,7 +328,7 @@ Wrong Password?
 Compression method is not supported!
 Data Error!
 CRC Failed!
-Unavailable data
+Unavailable Data
 Unexpected end of data
 There are some data after the end of the payload data
 Is not archive
@@ -355,7 +355,7 @@ Time Elapsed:
 Time Remaining:
 Total Size:
 Speed:
-Processed:
+Size Processed:
 Compression Ratio:
 Errors:
 Archives:
@@ -379,11 +379,11 @@ Encryption Method:
 Encrypt File &Names
 Memory Usage for Compressing:
 Memory Usage for Decompressing:
-Delete files after compression
+Delete Files After Compression
 4040
 Store Symbolic Links
 Store Hard Links
-Store alternate data streams
+Store Alternate Data Streams
 Store File Security
 4050
 Store
@@ -408,7 +408,7 @@ Timestamp Precision:
 Store Time Modification
 Store Time Creation
 Store Last Access Time
-Set archive time to latest file time
+Set Archive Time to the Latest File Time
 Do not change source files last access time
 4090
 sec
@@ -427,9 +427,9 @@ Error Renaming File or Folder
 Confirm File Copy
 Do you want to copy files to archive
 6100
-Confirm File Delete
-Confirm Folder Delete
-Confirm Multiple File Delete
+Attention - Confirm File Delete
+Attention - Confirm Folder Delete
+Attention - Confirm Multiple File Delete
 Do you really want to Delete '{0}'?\nIt will be gone forever and this action cannot be undone!
 Do you really want to Delete the Folder '{0}' and all its contents?\nIf you delete an folder, it will be permanently lost.\nThis action cannot be undone!
 Do you really want to Delete these {0} items?\nIf you delete a file, it will be permanently lost.\nThis action cannot be undone!
@@ -439,8 +439,8 @@ As Michelpuri would say, "Hmm. It appears we cannot move these file with the lon
 6300
 Create Folder
 Create File
-Please enter the Folder name:
-Please enter the File Name:
+Please enter a New Folder name:
+Please enter a New File name:
 New Folder
 New File
 Error Creating Folder
@@ -477,8 +477,8 @@ Splitting...
 Confirm Splitting
 Do you really want to split file into {0} volumes?
 The Volume Size must be smaller than size of original file
-Incorrect volume size
-Specified volume size: {0} bytes.\nDo you really want to split archive into such volumes?
+Incorrect Volume Size
+Specified Volume Size: {0} bytes.\nDo you really want to split archive into such volumes?
 7400
 Combine Files
 &Combine to:
@@ -521,7 +521,7 @@ Change allowed limit for next operations
 Action
 7810
 This operation was blocked by 7-Zip and cannot continue.
-This operation requires big amount of memory of RAM.
+The operation requires big amount of memory of RAM.
 Required memory usage size
 Allowed memory usage limit
 Memory usage limit set by 7-Zip
