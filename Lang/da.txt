@@ -1,9 +1,9 @@
 ;!@Lang2@!UTF-8!
-;  2.30 : Jakob Schmidt
+;       : Jakob Schmidt
 ;  9.07 : Kian Andersen, Jørgen Rasmussen
 ; 15.00 : 2016-11-25 : scootergrisen
-; 25.01 : 2025-09-03 : Michelpuri (CurePopuri/PopuriO2)
-; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
+;
+;
 ;
 ;
 ;
@@ -98,8 +98,6 @@ Bogmærke
 900
 &Funktioner...
 &Benchmark
-910
-Slet midlertidige filer...
 960
 &Indhold...
 &Om 7-Zip...
@@ -195,11 +193,6 @@ Fast henvisning
 iNode
 
 Skrivebeskyttet
-
-Kopiér Link
-
-
-Metadata ændret
 2100
 Funktioner
 Sprog
@@ -306,9 +299,6 @@ Automatisk omdøbning af eksisterende filer
 3430
 Forhindr duplikering af rodmappe
 Genskab filsikkerhed
-3440
-Udbred Zone.Id-strøm:
-Til Office-filer
 3500
 Bekræft filerstatning
 Destinationsmappen indeholder allerede behandlet fil.
@@ -402,17 +392,6 @@ Gennemse
 Alle filer
 Ikke-solid
 Solid
-4080
-Tid
-Tidsstempelpræcision:
-Butiksændret tidspunkt
-Butik oprettet tid
-Gem sidste adgangstidspunkt
-Indstil arkivtid til den seneste filtid
-Ændr ikke kildefiler ved sidste adgangstidspunkt
-4090
-sek
-ns
 6000
 Kopier
 Flyt
@@ -514,20 +493,3 @@ Fast henvisning
 Fil symbolsk henvisning
 Mappe symbolsk henvisning
 Mappe forbindelsespunkt
-7800
-Anmodning om hukommelsesforbrug
-Skift tilladt grænse for næste operationer
-&Gentag den valgte handling for den aktuelle operation
-Handling
-7810
-Denne handling blev blokeret af 7-Zip og kan ikke fortsætte.
-Denne operation kræver en stor mængde RAM.
-Påkrævet hukommelsesforbrug størrelse
-Tilladt hukommelsesbrugsgrænse
-Hukommelsesforbrug grænse sat af 7-Zip
-RAM-størrelse
-Maksimal RAM-hukommelsesforbrug tilladt til udpakning af arkiver:
-7820
-&Tillad udpakningsarkiv
-&Springe udpakningsarkiv
-Udpakningen af ​​arkivet blev sprunget over!

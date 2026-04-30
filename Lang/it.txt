@@ -3,11 +3,11 @@
 ;       : Vincenzo Reale (some corrections)
 ; 15.05 : 2015-06-17 : TJL73
 ; 17.00 : 2017-02-01 : Massimo Castiglia
-; 18.03 : 2018-01-15 : POLAR www.polarmachines.com
-; 22.00 : 2022-06-20 : TJL73 : https://tjl73.altervista.org/
-; 24.02 : 2024-03-23 : TJL73
+; 18.03 : 2018-01-15 : POLAR
 ; 24.04 : 2024-04-05 : TJL73
-; 25.00 : 2025-07-13 : Michelpuri (CurePopuri/PopuriO2)
+;
+;
+;
 ;
 ;
 0
