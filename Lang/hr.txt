@@ -3,8 +3,8 @@
 ;  4.53 : Hasan Osmanagić
 ;  9.07 :
 ; 15.05 : 2015-06-15 : Stjepan Treger
-; 25.01 : 2025-09-03 : Michelpuri (CurePopuri/PopuriO2)
-; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
+;
+;
 ;
 ;
 ;
@@ -98,8 +98,6 @@ Zabilješka
 900
 &Mogućnosti...
 M&jerenje
-910
-Izbriši privremene datoteke...
 960
 &7-Zip pomoć...
 &O programu...
@@ -195,11 +193,6 @@ Poveznica
 iNode
 
 Samo za čitanje
-
-Kopiraj Poveznicu
-
-
-Metapodaci promijenjeni
 2100
 Mogućnosti
 Jezik
@@ -306,9 +299,6 @@ Automatska promjena naziva postojećih datoteka
 3430
 Eliminiraj dupliranje korijenske mape
 Vrati sigurnost datoteka
-3440
-Propagiraj tok Zone.Id:
-Za Office datoteke
 3500
 Potvrdite zamjenu datoteka
 Ciljana mapa već sadrži datoteku koja se trenutno obrađuje.
@@ -402,17 +392,6 @@ Traži
 Sve datoteke
 Bez-zbijanja
 Zbijeno
-4080
-Vrijeme
-Preciznost vremenske oznake:
-Postavi Modificirano vrijeme
-Postavi Stvoreno vrijeme
-Postavi vrijeme zadnjeg pristupa
-Postavi vrijeme arhiviranja na najnovije vrijeme datoteke
-Ne mijenjaj izvorne datoteke tijekom posljednjeg pristupa
-4090
-sek
-ns
 6000
 Kopiraj
 Premjesti
@@ -514,20 +493,3 @@ Tip poveznice
 Simbolična poveznica datoteka
 Simbolična poveznica mapa
 Mapa čvorišta
-7800
-Zahtjev za korištenje memorije
-Promijeni dopušteno ograničenje za sljedeće operacije
-&Ponovite odabranu akciju za trenutnu operaciju
-Akcijski
-7810
-Ovu operaciju je blokirao 7-Zip i ne može se nastaviti.
-Ova operacija zahtijeva veliku količinu RAM memorije.
-Potrebna veličina korištenja memorije
-Dopušteno ograničenje korištenja memorije
-Ograničenje upotrebe memorije koje postavlja 7-Zip
-Veličina RAM-a
-Maksimalna količina RAM memorije koja se može koristiti za dekompresiju arhiva:
-7820
-&Dopusti raspakiravanje arhive
-&Preskoči raspakiravanje arhive
-Raspakivanje arhive je preskočeno!

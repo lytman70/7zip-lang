@@ -5,8 +5,8 @@
 ;  9.35 : T.Sakkara
 ; 15.05 : 2015-08-07 : Lauri Kenttä
 ; 19.00 : 2020-12-28 : Sampo Hippeläinen
-; 25.01 : 2025-08-29 : Michelpuri (CurePopuri/PopuriO2)
-; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
+;
+;
 ;
 ;
 ;
@@ -98,8 +98,6 @@ Kirjanmerkki
 900
 &Asetukset...
 &Nopeustesti
-910
-Poista väliaikaiset tiedostot...
 960
 &Sisältö...
 &Tietoja ohjelmasta...
@@ -514,20 +512,3 @@ Kova linkki
 Symbolinen tiedostolinkki
 Symbolinen kansiolinkki
 Kansioliitos
-7800
-Muistin käyttöä koskeva pyyntö
-Muuta seuraavien toimintojen sallittua rajaa
-&Toista valittu toiminto nykyiselle toiminnolle
-Toiminto
-7810
-7-Zip esti tämän toiminnon, eikä sitä voida jatkaa.
-Tämä toiminto vaatii suuren määrän RAM-muistia.
-Vaadittu muistin käyttökoko
-Sallittu muistin käyttöraja
-7-Zip in asettama muistin käyttöraja
-RAM-muistin koko
-Arkiston purkamiseen sallittu RAM-muistin enimmäismäärä:
-7820
-&Salli arkiston purkaminen
-&Ohita arkiston purkaminen pakkauksesta
-Arkiston purkaminen jätettiin väliin!

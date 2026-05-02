@@ -1,7 +1,7 @@
 ﻿;!@Lang2@!UTF-8!
 ;  4.09 : Petri Jooste
-; 25.01 : 2025-08-30 : Michelpuri (CurePopuri/PopuriO2)
-; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
+;
+;
 ;
 ;
 ;
@@ -57,13 +57,11 @@ Ver&deel lêer...
 Kom&bineer lêers...
 E&ienskappe
 Komme&ntaar
-Bereken Kontrolesom
-Verskil
+
+
 Maak gids
 Maak lêer
 A&fsluit
-Skakel
-&Alternatiewe Stroompies
 600
 Selekteer &alles
 Deselekteer a&lles
@@ -79,14 +77,13 @@ Deselekteer op Soort
 &Detail
 730
 Ongesorteer
-Plat Uitsig
+
 &2 Panele
 &Nutsbalke
 Maak wortelgids oop
 Een vlak hoër
 Gidse geskiedenis...
 &Verfris
-Outo-verfris
 750
 Argiveernutsbalk
 Standaardnutsbalk
@@ -98,8 +95,6 @@ Boekmerk
 900
 &Opsies...
 &Normtoetsing
-910
-Vee tydelike lêers uit...
 960
 &Inhoud...
 &Aangaande 7-Zip...
@@ -356,14 +351,14 @@ Selekteer
 Deselekteer
 Masker:
 6600
-Eiendomme
+
 Gidse-geskiedenis
 Diagnostiese boodskappe
 Boodskap
 7100
 Rekenaar
 Network
-Dokumente
+
 Stelsel
 7200
 Voeg by
@@ -378,23 +373,23 @@ Verdeel lêer
 &Verdeel na:
 Verdeel in &volumes, aantal grepe:
 Besig met verdeling...
-Bevestig splitsing
-Wil jy regtig die lêer in {0} volumes verdeel?
-Die volumegrootte moet kleiner wees as die grootte van die oorspronklike lêer
-Verkeerde Volumegrootte
-Gespesifiseerde Volumegrootte: {0} grepe.\nWil jy regtig die argief in sulke volumes verdeel?
+
+
+
+
+
 7400
 Kombineer lêers
 &Kombineer na:
 Besig met kombinering...
-Kies slegs die eerste deel van die gesplete lêer
-Ons kon nie lêer as deel van gesplete lêer bespeur nie.
-Ons kon nie meer as een deel van gesplete lêer vind nie.
+
+
+
 7500
-Bereken tans kontrolesom...
-Kontrolesom inligting
-CRC-kontrolesom vir data:
-CRC-kontrolesom vir data en name:
+
+
+
+
 7600
 Meet
 Geheuegebruik:
@@ -404,34 +399,6 @@ Gradering
 Totale gradering
 Huidige
 Resultaat
-CPU-gebruik
-Gradering/Gebruik
-Lopies:
-7700
-Skakel
-Skakel
-Skakel van:
-Skakel na:
-7710
-Skakel Tipe
-Harde Skakel
-Lêer Simboliese Skakel
-Gids Simboliese Skakel
 
-7800
-Geheuegebruikversoek
-Verander toegelate limiet vir volgende bewerkings
-&Herhaal gekose aksie vir huidige bewerking
-Aksie
-7810
-Hierdie bewerking is deur 7-Zip geblokkeer en kan nie voortgaan nie.
-Hierdie operasie vereis 'n groot hoeveelheid RAM-geheue.
-Vereiste geheuegebruiksgrootte
-Toegelate geheuegebruikslimiet
-Geheuegebruikslimiet gestel deur 7-Zip
-RAM-grootte
-Maksimum hoeveelheid RAM-geheuegebruik toegelaat om argiewe uit te pak:
-7820
-Laat uitpak argief toe
-Slaan uitpak argief oor
-Die argiefuitpak is oorgeslaan!
+
+Lopies:

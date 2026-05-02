@@ -3,8 +3,8 @@
 ;  9.20 : 2014-11-26 : enfeitizador
 ; 15.00 : 2016-02-01 : enfeitizador
 ; 22.00 : 2023-05-13 : enfeitizador
-; 25.01 : 2025-08-29 : Michelpuri (CurePopuri/PopuriO2)
-; 26.00 : 2026-02-14 : Michelpuri (CurePopuri/PopuriO2/Scubarisa)
+;
+;
 ;
 ;
 ;
@@ -98,8 +98,6 @@ Marcador
 900
 &Opcións...
 &Rendemento
-910
-Eliminar ficheiros temporais...
 960
 &Contidos...
 &Acerca do 7-Zip...
@@ -514,20 +512,3 @@ Ligazón forte
 Ligazón simbólica de ficheiro
 Directorio ligazón simbólica
 Directorio nexo
-7800
-Solicitude de uso da memoria
-Límite de cambios permitido para as seguintes operacións
-&Repetir a acción seleccionada para a operación actual
-Acción
-7810
-Esta operación foi bloqueada por 7-Zip e non pode continuar.
-Esta operación require unha gran cantidade de memoria RAM.
-Tamaño de uso de memoria requirido
-Límite de uso de memoria permitido
-Límite de uso da memoria establecido por 7-Zip
-Tamaño da RAM
-Cantidade máxima de uso de memoria RAM permitida para desempaquetar arquivos:
-7820
-&Permitir a descompresión do arquivo
-&Omitir a descompresión do arquivo
-O desempaquetado do arquivo saltouse!
