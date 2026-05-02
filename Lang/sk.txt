@@ -3,7 +3,7 @@
 ;  9.07 : Pavel Devečka
 ;  9.38 beta : 2015-01-11 : Roman Horváth
 ;  24.02 : Milan Šalka
-;  26.00 : 2026-02-12 Patrik Špaňo (Pa4k)
+;  26.01 : 2026-05-01 Patrik Špaňo (Pa4k)
 ;
 ;
 ;
