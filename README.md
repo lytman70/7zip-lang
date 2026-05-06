@@ -22,7 +22,7 @@ Merge7z was also bundled for WinMerge, you can also download if you haven't inst
 
 You need download the WinMerge latest version (or pre-release version) [here](https://github.com/winmerge/winmerge/releases).
 
-After the WinMerge is install succeeded, You also need Download the Merge7Z [here](https://github.com/WinMerge/winmerge/releases/tag/Merge7z2501.0).<br/>
+After the WinMerge is install succeeded, You also need Download the Merge7Z [here](https://github.com/WinMerge/winmerge/releases/tag/Merge7z).<br/>
 Then after that, you must follow the program files if you are running 32-bit or 64-bit:
 * If you have 32-bit/64-bit installed: C:\Program Files\WinMerge\Merge7z
 * If you have 32-bit if running on 64-bit installed: C:\Program Files (x86)\WinMerge\Merge7z
