@@ -40,10 +40,10 @@ If you want to translate your language and new localisation, Just copy en.ttt fi
 In most versions that came found on 7-Zip 24.05, the **en.ttt** file uses old version, indicating this:<br/>
 **; 24.04 : 2024-04-05 : Igor Pavlov**
 
-In order to update the latest version (such as 25.01), this is the example as follows:<br/>
-**; 26.00 : 2026-02-12 : Igor Pavlov**
+In order to update the latest version (such as 26.01), this is the example as follows:<br/>
+**; 26.01 : 2026-04-27 : Igor Pavlov**
 
-Versions below 24.04 (that uses 7-Zip 24.05 through 25.01) contains this is bug version which it came old version. We always updated new version if Igor releases 7-Zip future versions.
+Versions below 24.04 (that uses 7-Zip 24.05 through 26.01) contains this is bug version which it came old version. We always updated new version if Igor releases 7-Zip future versions.
 
 Also for that, the **ru.txt** file is affected, which it had 24.04.
 
