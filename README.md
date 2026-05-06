@@ -60,6 +60,9 @@ This is the most common issue if you use Windows Notepad. However it does affect
 * **For Notepad2 (including Notepad2e) users**: File -> Line Endings -> Windows (CR+LF)
 * **For Mousepad users (in Linux)**: Document -> Line Ending -> DOS/Windows (CRLF)
 
+Converting from Unix (LF) to Windows (CRLF) is **STRONGLY RECOMMENDED**, If you keep Unix (LF) right now, the file will be garbled once you open earlier version of Windows.
+* **APPLIES TO:** Windows NT 4.0, Windows 2000, Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10 v1507-1803.
+
 ## FeatherPad User Notice
 **Applies for LXQt Desktop and Lubuntu starting in 18.10**<br/>
 **SAVING THE FILE WILL SET AS UNIX (LF) LINE ENDING. THIS METHOD IS NOT RECOMMENDED!**
