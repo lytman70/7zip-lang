@@ -1,5 +1,5 @@
 ;!@Lang2@!UTF-8!
-;                    : Kollarik Miroslav
+; 26.01 : 2026-05-16 : Kollarik Miroslav
 ;
 ;
 ;
