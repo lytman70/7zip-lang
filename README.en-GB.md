@@ -2,6 +2,47 @@
 A Language Pack for 7-Zip using latest version.
 Only CRLF Line Ending is accepted.
 
+This repository contains the official translation and localisation files used in 7-Zip File Manager (`7zg.exe` and 7zFM.exe`).
+
+# Contributing
+Contributions are welcome and appreciated. Please follow the rules and steps below carefully.
+
+### Contribution Rules (Important)
+* All files must be encoded in UTF-8.
+* All files must be CR+LF line ending.
+* **Do not add, delete, or change the order of translation entries** in any file.
+* **Do not change the line ending to LF** in any file.
+** If Igor Pavlov added some strings in `en.ttt` file, we will update until further notice in the future version of 7-Zip.
+* You may:
+** Translate existing English text into your target language, **and**
+** **Correct or improve existing translations** if there is a mistake, inconsistency, or quality issue.
+* Ensure translations are accurate, consistent, and respectful of the program's tone.
+
+Pull requests that do not follow these rules may be rejected.
+
+### Contribution Steps
+
+1. **Fork** this repository.
+2. Create a new branch for your changes.
+3. Edit the relevant translation files following the rules above.
+4. Commit your changes with a clear message.
+5. Submit a **Pull Request** with a brief description of your changes.
+
+Our team will review your contribution and may request adjustments before merging.
+
+### Special Instructions for Contributors
+
+- **Improving English Text:**
+  - If you want to suggest improvements to the original English text, please edit the files in the `en.tt` file (at LANG folder) and submit a **Pull Request**.
+
+- **Pull Request Rules:**
+  - You may open a **single Pull Request that includes changes to multiple files, but only for one language per Pull Request**. If you wish to contribute to multiple languages, please open a separate Pull Request for each language.
+
+- **Editing .TTT Files:**
+  - TTT files are free format and have no defined structure. When translating a TTT file, translate the entire file into your target language and **replace the original English text** with your translation. Do not keep the original English in the translated file.
+
+Please make sure to follow these guidelines to ensure your contribution can be reviewed and merged efficiently.
+
 # Why?
 Starting in Version 24.00 Beta, the line ending was changed as Unix (LF).
 The issue can be found [here](https://github.com/ip7z/7zip/issues/14).
@@ -59,9 +100,13 @@ This is the most common issue if you use Windows Notepad. However it does affect
 * **For Notepad++ users:** Edit -> EOL Conversion -> Windows (CR LF)
 * **For Notepad2 (including Notepad2e) users**: File -> Line Endings -> Windows (CR+LF)
 * **For Mousepad users (in Linux)**: Document -> Line Ending -> DOS/Windows (CRLF)
+* **For Metapad users** File -> File Format -> DOS Text (CR+LF) or UTF-8 /w BOM (CR+LF)
 
 Converting from Unix (LF) to Windows (CRLF) is **STRONGLY RECOMMENDED**, If you keep Unix (LF) right now, the file will be garbled once you open earlier version of Windows.
 * **APPLIES TO:** Windows NT 4.0, Windows 2000, Windows XP, Windows Server 2003, Windows Vista, Windows 7, Windows 8, Windows 8.1, Windows 10 v1507-1803.
+
+If you open some files in MS-DOS Editor, such as `fr.txt` file, the Line Ending will converted to CR+LF instead LF (Unix).
+* Applied in MS-DOS platforms such as FreeDOS, DOSBox, DOSBox-X.
 
 ## FeatherPad User Notice
 **Applies for LXQt Desktop and Lubuntu starting in 18.10**<br/>
